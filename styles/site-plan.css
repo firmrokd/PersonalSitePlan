@@ -143,7 +143,7 @@ nav a:hover {
 }
 .sm-home {
   grid-area: home;
-  background-color: #ccc;
+  background-color: #57a5af;
   line-height: 3em;
 }
 .sm-page2 {
